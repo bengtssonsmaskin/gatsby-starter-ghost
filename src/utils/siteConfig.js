@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: `https://bm-se.azurewebsites.net`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://blue-bush-0787b5003.azurestaticapps.net`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
